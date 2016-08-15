@@ -1,0 +1,9 @@
+C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\bin\CRUDwithJSON.dll.config
+C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\bin\CRUDwithJSON.dll
+C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\bin\CRUDwithJSON.pdb
+C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\bin\EntityFramework.dll
+C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\bin\EntityFramework.SqlServer.dll
+C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\bin\EntityFramework.xml
+C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\bin\EntityFramework.SqlServer.xml
+C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\obj\Debug\CRUDwithJSON.dll
+C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\obj\Debug\CRUDwithJSON.pdb
