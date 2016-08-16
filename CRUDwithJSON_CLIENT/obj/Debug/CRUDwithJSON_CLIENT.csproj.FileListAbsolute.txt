@@ -1,0 +1,1 @@
+C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON_CLIENT\obj\Debug\CRUDwithJSON_CLIENT.csprojResolveAssemblyReference.cache
