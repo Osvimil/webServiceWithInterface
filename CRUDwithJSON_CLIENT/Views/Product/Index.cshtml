@@ -1,5 +1,4 @@
-﻿
-@{
+﻿@{
     Layout = null;
 }
 
@@ -18,7 +17,8 @@
             <th>Price</th>
             <th>Quantity</th>
         </tr>
-        @foreach (var product in ViewBag.listProducts) {
+        @foreach (var product in ViewBag.listProducts)
+        {
             <tr>
 
                 <td>@product.Id</td>

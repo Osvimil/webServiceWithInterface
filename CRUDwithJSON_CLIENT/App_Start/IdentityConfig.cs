@@ -13,6 +13,7 @@ using Microsoft.Owin.Security;
 using CRUDwithJSON_CLIENT.Models;
 
 namespace CRUDwithJSON_CLIENT
+
 {
     public class EmailService : IIdentityMessageService
     {

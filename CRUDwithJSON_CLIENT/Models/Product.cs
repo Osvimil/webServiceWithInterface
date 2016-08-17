@@ -8,8 +8,7 @@ namespace CRUDwithJSON_CLIENT.Models
 {
     public class Product
     {
-
-        [Display(Name ="id")]
+        [Display(Name = "id")]
         public int id
         {
             get;

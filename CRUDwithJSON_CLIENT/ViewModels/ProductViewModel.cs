@@ -5,13 +5,13 @@ using System.Web;
 using CRUDwithJSON_CLIENT.Models;
 using CRUDwithJSON_CLIENT.Controllers;
 
-
-namespace CRUDwithJSON_CLIENT.ViewModells
+namespace CRUDwithJSON_CLIENT.ViewModels
 {
     public class ProductViewModel
     {
 
-        public Product product {
+        public Product product
+        {
             get;
             set;
         }
