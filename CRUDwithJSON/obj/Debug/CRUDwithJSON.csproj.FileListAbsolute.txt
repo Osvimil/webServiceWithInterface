@@ -7,4 +7,3 @@ C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\bin\EntityFramework.xml
 C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\bin\EntityFramework.SqlServer.xml
 C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\obj\Debug\CRUDwithJSON.dll
 C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\obj\Debug\CRUDwithJSON.pdb
-C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON\obj\Debug\CRUDwithJSON.csprojResolveAssemblyReference.cache

@@ -12,19 +12,19 @@
 <body>
     <table cellpadding="2" cellspacing="2" border="1">
         <tr>
-            <th>Id</th>
-            <th>Name</th>
-            <th>Price</th>
-            <th>Quantity</th>
+            <th>id</th>
+            <th>name</th>
+            <th>price</th>
+            <th>quantity</th>
         </tr>
         @foreach (var product in ViewBag.listProducts)
         {
             <tr>
 
-                <td>@product.Id</td>
-                <td>@product.Name</td>
-                <td>@product.Price</td>
-                <td>@product.Quantity</td>
+                <td>@product.id</td>
+                <td>@product.name</td>
+                <td>@product.price</td>
+                <td>@product.quantity</td>
             </tr>
         }
 

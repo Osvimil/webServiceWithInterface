@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDwithJSON", "CRUDwithJSON\CRUDwithJSON.csproj", "{04088D41-7329-4BDC-A335-B826A8B4C56E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDwithJSON_CLIENT", "CRUDwithJSON_CLIENT\CRUDwithJSON_CLIENT.csproj", "{60C8F240-68C9-41DA-853D-4B8DC87F4CDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDwithJSON_CLIENT", "CRUDwithJSON_CLIENT\CRUDwithJSON_CLIENT.csproj", "{6FA840D8-A9D4-444C-A0A4-6891AF77C212}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{04088D41-7329-4BDC-A335-B826A8B4C56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04088D41-7329-4BDC-A335-B826A8B4C56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04088D41-7329-4BDC-A335-B826A8B4C56E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60C8F240-68C9-41DA-853D-4B8DC87F4CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60C8F240-68C9-41DA-853D-4B8DC87F4CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60C8F240-68C9-41DA-853D-4B8DC87F4CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60C8F240-68C9-41DA-853D-4B8DC87F4CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA840D8-A9D4-444C-A0A4-6891AF77C212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA840D8-A9D4-444C-A0A4-6891AF77C212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA840D8-A9D4-444C-A0A4-6891AF77C212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA840D8-A9D4-444C-A0A4-6891AF77C212}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
