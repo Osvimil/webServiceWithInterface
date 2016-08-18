@@ -10,12 +10,15 @@
     <title>Index</title>
 </head>
 <body>
+    <a href="@Url.Action("Create","Product")">Add new producr</a>
+    <br /><br />
     <table cellpadding="2" cellspacing="2" border="1">
         <tr>
             <th>id</th>
             <th>name</th>
             <th>price</th>
             <th>quantity</th>
+            <th>Option</th>
         </tr>
         @foreach (var product in ViewBag.listProducts)
         {
@@ -25,6 +28,11 @@
                 <td>@product.name</td>
                 <td>@product.price</td>
                 <td>@product.quantity</td>
+
+                <td>
+                    <a href="@Url.Action("Delete","Product", new { id= product.id})">Delete</a> |
+                    <a href="@Url.Action("Edit","Product", new { id= product.id})">Edit</a>
+                </td>
             </tr>
         }
 

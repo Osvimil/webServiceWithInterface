@@ -79,3 +79,4 @@ C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON_CLIENT\bin\Microsoft.Owin
 C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON_CLIENT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON_CLIENT\obj\Debug\CRUDwithJSON_CLIENT.dll
 C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON_CLIENT\obj\Debug\CRUDwithJSON_CLIENT.pdb
+C:\Users\gabino\Source\Repos\CRUDwithJSON\CRUDwithJSON_CLIENT\obj\Debug\CRUDwithJSON_CLIENT.csprojResolveAssemblyReference.cache
